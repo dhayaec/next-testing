@@ -16,7 +16,8 @@
       "*.tsbuildinfo": true,
       "*.lock": true,
       "*.swc": true,
-      "**/coverage": true
+      "**/coverage": true,
+      "pnpm-lock.yaml": true
     },
     "emmet.includeLanguages": {
       "postcss": "css"
